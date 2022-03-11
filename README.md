@@ -11,6 +11,8 @@ Based on Silabs CP2102N with integrated voltage regulator for the 3.3V rail.
 
 Never did an own USB UART adapter and wanted to implement USB-C connectors. So I took this oportunity.
 
+Here's a 3D Version for your viewing pleasure: https://a360.co/3vfPNpy
+
 ![cod.m CP2102N USB UART](img/codm-cp2102n-usb-uart-render.png)
 
 
